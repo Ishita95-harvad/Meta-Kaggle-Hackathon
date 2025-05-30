@@ -2,6 +2,9 @@
 
 ![Meta-Kaggle-Hackathon](https://github.com/Ishita95-harvad/Meta-Kaggle-Hackathon/blob/15600187a5c75e546075299a0bdf68a4b24c8c05/header%20(14).png)
 
+## Contributors
+- Ishita95-harvad
+  
 ## Overview
 This repository contains the code and resources for the Meta-Kaggle Hackathon, where participants analyze Kaggle competition data to uncover trends, strategies, and insights.
 
@@ -38,8 +41,7 @@ pip install -r requirements.txt
 - Visualization of insights
 InstallationMake sure you have Python installed along with necessary libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn.UsageRun the main script to start analysis:python main.py
 
-## Contributors
-- Ishita95-harvad
 
-## License
+
+### License
 This project is licensed under the MIT License - see the LICENSE file for details
