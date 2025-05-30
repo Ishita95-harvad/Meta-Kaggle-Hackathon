@@ -1,6 +1,6 @@
 # Meta-Kaggle-Hackathon
 
-![Meta-Kaggle-Hackathon](header(14)-image.png)
+![Meta-Kaggle-Hackathon](https://github.com/Ishita95-harvad/Meta-Kaggle-Hackathon/blob/15600187a5c75e546075299a0bdf68a4b24c8c05/header%20(14).png)
 
 ## Overview
 This repository contains the code and resources for the Meta-Kaggle Hackathon, where participants analyze Kaggle competition data to uncover trends, strategies, and insights.
